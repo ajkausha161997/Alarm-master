@@ -2,7 +2,10 @@
 Break time alarm app for Android with the following features:
 
 <p align="center">
-  <img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="256" title="Github Logo">
+  <img src="![Screenshot_2020-06-29-19-01-39-73_088a71fa7a01fc928253fff4b853f980](https://user-images.githubusercontent.com/67589194/86013138-714e9180-ba3c-11ea-93fe-928c416f396e.jpg)">
+   
+
+
 </p>
 
 ![Screenshot_2020-06-29-19-01-39-73_088a71fa7a01fc928253fff4b853f980](https://user-images.githubusercontent.com/67589194/86013138-714e9180-ba3c-11ea-93fe-928c416f396e.jpg)

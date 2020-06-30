@@ -3,10 +3,10 @@ Break time alarm app for Android with the following features:
 
 
 <img src="
-![Screenshot_2020-06-29-19-01-39-73_088a71fa7a01fc928253fff4b853f980](https://user-images.githubusercontent.com/67589194/86013138-714e9180-ba3c-11ea-93fe-928c416f396e.jpg" width="300" />
+![Screenshot_2020-06-29-19-01-39-73_088a71fa7a01fc928253fff4b853f980](https://user-images.githubusercontent.com/67589194/86013138-714e9180-ba3c-11ea-93fe-928c416f396e.jpg)" width="300" />
 
 
-)
+
 ![Screenshot_2020-06-29-19-01-39-73_088a71fa7a01fc928253fff4b853f980](https://user-images.githubusercontent.com/67589194/86013138-714e9180-ba3c-11ea-93fe-928c416f396e.jpg)
 ![Screenshot_2020-06-29-19-01-45-06_088a71fa7a01fc928253fff4b853f980](https://user-images.githubusercontent.com/67589194/86013145-74e21880-ba3c-11ea-86da-56cc566e4afb.jpg)
 ![Screenshot_2020-06-29-19-01-01-42_088a71fa7a01fc928253fff4b853f980](https://user-images.githubusercontent.com/67589194/86013150-76134580-ba3c-11ea-8a35-84b11bb5b747.jpg)
